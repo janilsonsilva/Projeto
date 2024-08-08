@@ -1,7 +1,7 @@
 ## Modelo relacionado ao desenvolvimento de um projeto integrador visando uma equipe de 3 pessoas
 
 #### Análise de requisitos 
-1. Requisitos pré-definidos: campo onde requistos são colocados para serem avaliados e desenvolvidos, caso sejam aprovados
+1. *Requisitos pré-definidos:* campo onde requistos são colocados para serem avaliados e desenvolvidos, caso sejam aprovados
 2. Requisitos aprovados: campo onde os requisitos estão prontos para serem desenvolvidos
 
 #### Em desenvolvimento
